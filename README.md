@@ -1,4 +1,8 @@
 # Gui DDOS Tool
+## Links
+- https://github.com/nicknamekr/Python-GUI-DDOS
+- https://nicknamekr.github.io/Python-GUI-DDOS
+- https://nicknamekr.github.io/Python-GUI-DDOS/web
 ## 만든 이유
 GUI 공부
 ## 기능
